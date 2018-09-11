@@ -4,6 +4,9 @@ The purpose of this Shiny application is to visualize Auburn University sports r
 
 [https://rnall.shinyapps.io/au-radio-affiliates](https://rnall.shinyapps.io/au-radio-affiliates/)
 
+## How to use
+Each location on the map contains information about what city the tower is in, call letters, and frequency, while also stating if that affiliate broadcasts an Auburn Sports Today segement, the Tiger Talk radio show, football games, mens basketball games, and/or baseball games. Click on a location to see this information in the html pop-up. The layer panel is also collapsed in the top left, and layers distinguishing those between AM and FM frequencies can be turned on and off. 
+
 ## Notes
 There are some discrepancies between call signs, locations, and cities from the various sources. For example, the official Auburn Sports Network listing shows WSBM	1340 AM in Florence, AL as the only affiliate in the area, but this is in fact duplicated with W250BY 97.9 FM in Florence. Because I know this, I corrected it. 
 
