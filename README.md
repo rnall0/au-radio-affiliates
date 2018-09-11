@@ -10,5 +10,5 @@ I could not find information on WHAL in Columbus, GA.
 ## Sources
 
 
-- [Auburn Sports Network - Listen/Affliates](https://auburntigers.com/sports/2018/6/15/auburn-sports-network-listen.aspx)
+- [Auburn Sports Network - Listen/Affiliates](https://auburntigers.com/sports/2018/6/15/auburn-sports-network-listen.aspx)
 -  [radio-locator.com](https://radio-locator.com)
