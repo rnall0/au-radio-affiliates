@@ -5,9 +5,11 @@ The purpose of this Shiny application is to visualize Auburn University sports r
 [https://rnall.shinyapps.io/au-radio-affiliates](https://rnall.shinyapps.io/au-radio-affiliates/)
 
 ## Notes
-There are some discrepancies between call signs, locations, and cities from the various sources. For example, the official Auburn Sports Network listing shows WSBM	1340 AM in Florence, AL as the only affiliate in the area, but this is in fact is duplicated with W250BY 97.9 FM in Florence. Because I know this, I corrected it. 
+There are some discrepancies between call signs, locations, and cities from the various sources. For example, the official Auburn Sports Network listing shows WSBM	1340 AM in Florence, AL as the only affiliate in the area, but this is in fact duplicated with W250BY 97.9 FM in Florence. Because I know this, I corrected it. 
 
 I could not find information on WHAL in Columbus, GA. 
+
+And others.
 
 ## Sources
 
