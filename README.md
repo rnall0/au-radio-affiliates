@@ -4,7 +4,7 @@ The purpose of this Shiny application is to visualize Auburn University sports r
 
 [https://rnall.shinyapps.io/au-radio-affiliates](https://rnall.shinyapps.io/au-radio-affiliates/)
 
-##Data
+## Data
 The official [Auburn Sports Network - Listen/Affiliates](https://auburntigers.com/sports/2018/6/15/auburn-sports-network-listen.aspx) page was used as the "authoritative" source to scrape call sign tower lat/lons from [radio-locator.com](https://radio-locator.com). The [radio-locator.com](https://radio-locator.com) page has daily request limits, so be aware. 
 
 ## How to use
