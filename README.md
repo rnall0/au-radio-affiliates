@@ -4,6 +4,9 @@ The purpose of this Shiny application is to visualize Auburn University sports r
 
 [https://rnall.shinyapps.io/au-radio-affiliates](https://rnall.shinyapps.io/au-radio-affiliates/)
 
+##Data
+The official [Auburn Sports Network - Listen/Affiliates](https://auburntigers.com/sports/2018/6/15/auburn-sports-network-listen.aspx) page was used as the "authoritative" source to scrape call sign tower lat/lons from [radio-locator.com](https://radio-locator.com). The [radio-locator.com](https://radio-locator.com) page has daily request limits, so be aware. 
+
 ## How to use
 Each location on the map contains information about what city the tower is in, call letters, and frequency, while also stating if that affiliate broadcasts an Auburn Sports Today segement, the Tiger Talk radio show, football games, mens basketball games, and/or baseball games. Click on a location to see this information in the html pop-up. The layer panel is also collapsed in the top left, and layers distinguishing those between AM and FM frequencies can be turned on and off. 
 
